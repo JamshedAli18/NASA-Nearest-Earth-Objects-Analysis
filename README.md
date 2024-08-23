@@ -8,7 +8,7 @@ This project focuses on analyzing Near-Earth Objects (NEOs) using machine learni
 - **notebooks/**: Jupyter notebooks detailing each step of the analysis.
 - **scripts/**: Python scripts used for data preprocessing, modeling, and visualization.
 - **results/**: Output results, including model performance metrics and visualizations.
-
+ 
 ## 🔍 Data Exploration
 
 Explored key attributes of NEOs, such as:
