@@ -43,4 +43,4 @@ Explored key attributes of NEOs, such as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NEOs-analysis.git
+   git clone https://github.com/yourusername/NASA-Nearest-Earth-Objects-Analysis.git
